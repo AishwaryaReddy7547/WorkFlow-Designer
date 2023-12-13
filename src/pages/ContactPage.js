@@ -16,14 +16,13 @@ export default function Contact() {
             <div class="row">
                 <div class="column">
                     <div class="card">
-                        <img src="https://github.com/Rajeshds20.png" alt="Jane" style={{ width: "100%" }}></img>
                         <div class="container">
-                            <h2>Devangam Sajja Rajesh</h2>
-                            <p class="title">Student Developer</p>
-                            <a href="https://www.github.com/rajeshds20">Github</a>
+                            <h2>Guntakanti Aishwarya Reddy & Devangam Sajja Rajesh</h2>
+                            <p class="title">Student Developers</p>
                             <p></p>
+                            <p>aishureddy535@gmail.com</p>
+                            <br />
                             <p>dsrajesh71@gmail.com</p>
-                            <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/devangamsajjarajesh"><button class="button">Contact</button></a>
                         </div>
                     </div>
                 </div>
