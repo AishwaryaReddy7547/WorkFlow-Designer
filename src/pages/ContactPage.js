@@ -9,15 +9,17 @@ export default function Contact() {
             <Header />
             <div class="about-section">
                 <h1>About </h1>
-                <p>I ama a React and Web Developer. I love Coding and Development</p>
-                <p>I am studying in 3rd Year B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, Anantapur.</p>
+                <p>We are React and Web Developers.We love Coding and Development</p>
+                <p>We are studying in 3rd Year B.Tech in Computer Science and Engineering from Jawaharlal Nehru Technological University, Anantapur.</p>
             </div>
 
             <div class="row">
                 <div class="column">
                     <div class="card">
                         <div class="container">
-                            <h2>Guntakanti Aishwarya Reddy & Devangam Sajja Rajesh</h2>
+                            <h2>Guntakanti Aishwarya Reddy</h2>
+                            <br />
+                            <h2>Devangam Sajja Rajesh</h2>
                             <p class="title">Student Developers</p>
                             <p></p>
                             <p>aishureddy535@gmail.com</p>
